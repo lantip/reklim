@@ -26,4 +26,4 @@ def reklim():
 		return jsonify(data)
 
 if __name__ == "__main__":
-	app.run(host='geni.lantip.net')
+	app.run()
